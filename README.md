@@ -1,5 +1,8 @@
+## Deprecation
+This project has moved to [GitLab](https://gitlab.com/lfs.coop/blender/blender-material-utils).
 
----
+-----
+
 ### Blender Material Utils
 #### Material tuning
 Change some material properties. Useful for recolorizing textures on multiple objects at the same time (eg. add a globally darker shade to a character in a given shot). Blender Internal only.
